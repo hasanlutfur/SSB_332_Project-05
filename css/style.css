@@ -1,0 +1,68 @@
+.header{
+	min-height: 100px;
+	background-color: teal;
+	text-align: center;
+}
+.wrapper{
+	overflow: hidden;
+}
+.blog{
+	width: 65%;
+	float: left;
+	min-height: 200px;
+	background-color: red;
+}
+.image{
+	width: 35%;
+	float: right;
+	min-height: 200px;
+	background-color: green; 
+}
+.container{
+	border: 15px solid black;
+	overflow: hidden;
+}
+.contact{
+	width: 33.33%;
+	float: left;
+	min-height: 100px;
+	background-color: orange;
+}
+.address{
+	width: 33.33%;
+	float: left;
+	min-height: 100px;
+	background-color: brown;
+}
+.hire{
+	width: 33.33%;
+	float: left;
+	min-height: 100px;
+	background-color: pink
+}
+.containment{
+	border: 20px solid red;
+	overflow: hidden;
+}
+.box{
+	width: 25%;
+	float: left;
+	min-height: 150px;
+}
+.yellow{
+	background-color: yellow;
+}
+.lightblue{
+	background-color: lightblue;
+}
+.paste{
+	background-color: green;
+}
+.black{
+	background-color: black;
+}
+
+.footer{
+	min-height: 100px;
+	background-color: blue;
+}
